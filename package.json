@@ -1,0 +1,22 @@
+{
+    "name": "viow",
+    "displayName": "Viow",
+    "description": "The Viow Color Theme",
+    "version": "0.0.2",
+    "publisher": "Youssef",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Viow Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Viow-material-theme.json"
+            }
+        ]
+    }
+}

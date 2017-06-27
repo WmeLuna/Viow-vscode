@@ -2,13 +2,14 @@
     "name": "viow",
     "displayName": "Viow Color Themes",
     "description": "The Viow Color Theme",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "publisher": "Youssef",
+    "icon": "resources/icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
     "galleryBanner": {
-        "color": "#863dfd",
+        "color": "#a99ef4",
         "theme": "dark"
     },
     "repository": {

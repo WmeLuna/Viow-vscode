@@ -2,7 +2,7 @@
     "name": "viow",
     "displayName": "Viow",
     "description": "The Viow Color Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Youssef",
     "engines": {
         "vscode": "^1.13.0"

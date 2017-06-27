@@ -1,8 +1,8 @@
 {
     "name": "viow",
-    "displayName": "Viow",
+    "displayName": "Viow Color Themes",
     "description": "The Viow Color Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Youssef",
     "engines": {
         "vscode": "^1.13.0"

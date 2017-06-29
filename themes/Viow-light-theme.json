@@ -30,14 +30,12 @@
 		"dropdown.background": "#cad2d6",
 		"editor.findMatchBackground": "#d3ffdb",
 		"editor.findMatchHighlightBackground": "#bfddff",
-		// find
-		"peekViewEditor.matchHighlightBackground": "#d60030",
-		// #001422
-		"peekViewTitle.background": "#38385d",
-		"peekViewEditor.background": "#001f33",
-		"peekViewResult.background": "#001422",
+		"peekViewEditor.matchHighlightBackground": "#d3e2ff",
+		"peekViewTitle.background": "#c8e0f1",
+		"peekViewEditor.background": "#e8f2f9",
+		"peekViewResult.background": "#f0f0f0",
 		"peekView.border": "#3572ff",
-		"peekViewResult.matchHighlightBackground": "#004f7e",
+		"peekViewResult.matchHighlightBackground": "#f0f0f000",
 		"statusBar.background": "#dfdfdf",
 		"statusBar.foreground": "#454545",
 		"statusBar.noFolderBackground": "#d3cbe1",
@@ -62,7 +60,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#d3d0c8ff",
+				"foreground": "#ee0000ff",
 				"background": "#21252bff"
 			}
 		},
@@ -77,14 +75,14 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#d0d0d0"
+				"foreground": "#a7a7a7"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array",
 			"settings": {
-				"foreground": "#8e8e8e"
+				"foreground": "#717171"
 			}
 		},
 		{
@@ -133,7 +131,7 @@
 			"name": "Functions",
 			"scope": "entity.name.function, meta.require, support.function.any-method",
 			"settings": {
-				"foreground": "#01a84f"
+				"foreground": "#00ee5f"
 			}
 		},
 		{
@@ -176,7 +174,7 @@
 			"name": "Strings, Inherited Class",
 			"scope": "string, constant.other.symbol, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#fe5c7b"
+				"foreground": "#ff2952"
 			}
 		},
 		{

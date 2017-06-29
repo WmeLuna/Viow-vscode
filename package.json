@@ -25,6 +25,11 @@
                 "label": "Viow Material",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Viow-material-theme.json"
+            },
+            {
+                "label": "Viow Light",
+                "uiTheme": "vs",
+                "path": "./themes/Viow-light-theme.json"
             }
         ]
     }

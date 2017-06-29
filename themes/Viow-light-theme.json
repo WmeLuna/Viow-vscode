@@ -77,28 +77,28 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#747369"
+				"foreground": "#d0d0d0"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array",
 			"settings": {
-				"foreground": "#d3d0c8"
+				"foreground": "#8e8e8e"
 			}
 		},
 		{
 			"name": "Delimiters",
 			"scope": "none",
 			"settings": {
-				"foreground": "#d3d0c8"
+				"foreground": "#8e8e8e"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#ef002f"
+				"foreground": "#de0458"
 			}
 		},
 		{

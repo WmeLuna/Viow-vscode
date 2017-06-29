@@ -27,7 +27,7 @@
 		"sideBarSectionHeader.background": "#e5e5e5",
 		"editorLineNumber.foreground": "#979797",
 		"inputOption.activeBorder": "#d1d1db",
-		// "dropdown.background": "#ee0000",
+		"dropdown.background": "#cad2d6",
 		"editor.findMatchBackground": "#d3ffdb",
 		"editor.findMatchHighlightBackground": "#bfddff",
 		// find

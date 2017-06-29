@@ -17,7 +17,7 @@
 		"pickerGroup.foreground": "#A6B39B",
 		"pickerGroup.border": "#165fb3",
 		"list.activeSelectionForeground": "#4c4c4c",
-		"list.focusBackground": "#203144",
+		"list.focusBackground": "#9fcded",
 		"list.activeSelectionBackground": "#e0e0e0",
 		"list.inactiveSelectionBackground": "#e0e0e0",
 		"list.highlightForeground": "#0f96ff",
@@ -56,8 +56,8 @@
 		"inputValidation.errorBackground": "#ffeaea",
 		"inputValidation.errorBorder": "#f1897f",
 		"errorForeground": "#ffeaea",
-		"badge.background": "#165fb3AA",
-		"progressBar.background": "#705697"
+		"badge.background": "#949494",
+		"progressBar.background": "#63a7f7"
 	},
 	"tokenColors": [
 		{

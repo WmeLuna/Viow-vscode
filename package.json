@@ -1,20 +1,11 @@
 {
-    "name": "viow",
-    "displayName": "Viow Color Themes",
-    "description": "The Viow Color Theme",
-    "version": "0.0.7",
-    "publisher": "Youssef",
-    "icon": "resources/icon.png",
+    "name": "viow-theme",
+    "displayName": "viow-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "youssef",
     "engines": {
-        "vscode": "^1.13.0"
-    },
-    "galleryBanner": {
-        "color": "#a99ef4",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://gitlab.com/youssefhad/Viow-vscode"
+        "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
@@ -30,6 +21,11 @@
                 "label": "Viow Light",
                 "uiTheme": "vs",
                 "path": "./themes/Viow-light-theme.json"
+            },
+            {
+                "label": "Viow Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Viow-neon-theme.json"
             }
         ]
     }

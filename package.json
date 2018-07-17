@@ -2,7 +2,7 @@
 	"name": "viow",
 	"displayName": "Viow Color Themes",
 	"description": "The Viow Color Theme",
-	"version": "0.1.4",
+	"version": "0.2.0",
 	"publisher": "Youssef",
 	"icon": "resources/icon.png",
 	"engines": {

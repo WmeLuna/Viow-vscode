@@ -40,6 +40,11 @@
 				"label": "Viow Neon",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-neon-theme.json"
+			},
+			{
+				"label": "Viow Mars",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Viow-mars-theme.json"
 			}
 		]
 	},

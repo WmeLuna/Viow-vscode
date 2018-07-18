@@ -22,9 +22,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Viow Material",
+				"label": "Viow Darker",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Viow-material-theme.json"
+				"path": "./themes/Viow-darker-theme.json"
 			},
 			{
 				"label": "Viow Light",

@@ -223,7 +223,7 @@
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#f99157"
+				"foreground": "#00bcd4"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 			"name": "CSS: Property Names",
 			"scope": "meta.property-name, support.type.property-name",
 			"settings": {
-				"foreground": "#15b7ff"
+				"foreground": "#8bc34a"
 			}
 		},
 		{

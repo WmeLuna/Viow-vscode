@@ -2,11 +2,11 @@
 
 ### Viow material
 <p align="center">
-    <img src="https://vinala.pixidev.com/screen_material.png" >
+    <img src="https://gitlab.com/youssefhad/Viow-vscode/raw/master/resources/screen_material.png" >
 </p>
 
 ### Viow light
 
 <p align="center">
-    <img src="https://vinala.pixidev.com/screen_light.png" >
+    <img src="https://gitlab.com/youssefhad/Viow-vscode/raw/master/resources/screen_light.png" >
 </p>

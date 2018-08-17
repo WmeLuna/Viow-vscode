@@ -2,7 +2,7 @@
 	"name": "viow",
 	"displayName": "Viow Color Themes",
 	"description": "The Viow Color Theme",
-	"version": "0.2.4",
+	"version": "0.2.5",
 	"publisher": "Youssef",
 	"icon": "resources/icon.png",
 	"engines": {
@@ -23,11 +23,6 @@
 		"themes": [
 			{
 				"label": "Viow Darker",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Viow-darker-theme.json"
-			},
-			{
-				"label": "Viow Material",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-darker-theme.json"
 			},

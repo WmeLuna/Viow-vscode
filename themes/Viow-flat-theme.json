@@ -52,7 +52,10 @@
 		"inputValidation.errorBorder": "#f1897f",
 		"errorForeground": "#ffeaea",
 		"badge.background": "#165fb3AA",
-		"progressBar.background": "#705697"
+		"progressBar.background": "#705697",
+		"editorGutter.modifiedBackground": "#00b70e",
+		"editorGutter.addedBackground": "#1f5ce9",
+		"editorGutter.deletedBackground": "#e9004b"
 	},
 	"tokenColors": [
 		{

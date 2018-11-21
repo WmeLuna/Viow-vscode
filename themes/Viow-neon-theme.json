@@ -42,7 +42,7 @@
 		"activityBar.background": "#181b25",
 		"activityBar.foreground": "#cdcdcd",
 		"activityBarBadge.background": "#004597",
-		"titleBar.activeBackground": "#15468e",
+		"titleBar.activeBackground": "#191c28",
 		"button.background": "#002daa",
 		"notification.background": "#48469c",
 		"editorGroup.dropBackground": "#004cbd88",
@@ -124,7 +124,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#ff7f50"
+				"foreground": "#a97bff"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#f99157"
+				"foreground": "#00bcd4"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 			"name": "CSS: Property Names",
 			"scope": "meta.property-name, support.type.property-name",
 			"settings": {
-				"foreground": "#15b7ff"
+				"foreground": "#8bc34a"
 			}
 		},
 		{

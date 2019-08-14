@@ -44,8 +44,8 @@
 		
 		"editorLineNumber.foreground": "#e3d1ff33",
 		"dropdown.background": "#202432",
-		"editor.findMatchBackground": "#00338b",
-		"editor.findMatchHighlightBackground": "#00000055",
+		"editor.findMatchBackground": "#42108c",
+		"editor.findMatchHighlightBackground": "#42108c99",
 		"peekViewEditor.matchHighlightBackground": "#001422",
 		"peekViewTitle.background": "#38385d",
 		"peekViewEditor.background": "#001f33",

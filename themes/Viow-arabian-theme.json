@@ -76,7 +76,7 @@
 		"input.background": "#9c64ee22",
 		"inputOption.activeBorder": "#9c64ee16",
 		
-		"inputValidation.infoBorder": "#F00",
+		"inputValidation.infoBorder": "#094590",
 		"inputValidation.infoBackground": "#0071b7",
 		"inputValidation.warningBackground": "#e97f00",
 		"inputValidation.warningBorder": "#ffaa41",

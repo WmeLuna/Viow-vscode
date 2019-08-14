@@ -47,9 +47,9 @@
 				"path": "./themes/Viow-mars-theme.json"
 			},
 			{
-				"label": "Viow Sky",
+				"label": "Viow Arabian",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Viow-sky-theme.json"
+				"path": "./themes/Viow-arabian-theme.json"
 			}
 		]
 	},

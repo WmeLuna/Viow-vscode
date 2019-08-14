@@ -50,13 +50,18 @@
 				"label": "Viow Arabian",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-arabian-theme.json"
+			},
+			{
+				"label": "Viow Arabian - Mix",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Viow-arabian-theme.mix.json"
 			}
 		]
 	},
+	"dependencies": {},
 	"__metadata": {
 		"id": "2ac9e6ab-e4f6-49ef-9f5a-7a711b3d5644",
 		"publisherId": "aff1951e-d1ae-450b-82b7-c651024113c8",
 		"publisherDisplayName": "Youssef Had"
-	},
-	"dependencies": {}
+	}
 }

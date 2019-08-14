@@ -45,6 +45,11 @@
 				"label": "Viow Mars",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-mars-theme.json"
+			},
+			{
+				"label": "Viow Sky",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Viow-sky-theme.json"
 			}
 		]
 	},

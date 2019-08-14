@@ -20,9 +20,16 @@
 		"scrollbarSlider.activeBackground": "#7e28ff99",
 		"scrollbarSlider.background": "#69588322",
 		"scrollbarSlider.hoverBackground": "#69588333",
+		
 
 		"focusBorder": "#7b36e2",
 		
+		"editorWidget.background": "#2a1c3e",
+		"editorWidget.border": "#100422",
+
+		"debugToolBar.background": "#2a1c3e",
+		"debugToolBar.border": "#100422",
+
 		"pickerGroup.foreground": "#8838ff",
 		"pickerGroup.border": "#490e7b",
 

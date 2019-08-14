@@ -56,10 +56,10 @@
 		"editor.findMatchHighlightBackground": "#42108c99",
 		"peekViewEditor.matchHighlightBackground": "#001422",
 		"peekViewTitle.background": "#38385d",
-		"peekViewEditor.background": "#001f33",
-		"peekViewResult.background": "#001422",
-		"peekView.border": "#3572ff",
-		"peekViewResult.matchHighlightBackground": "#004f7e",
+		"peekViewEditor.background": "#110028",
+		"peekViewResult.background": "#0e0021",
+		"peekView.border": "#5158d8",
+		"peekViewResult.matchHighlightBackground": "#2b0264",
 		"statusBar.foreground": "#85749f",
 		"statusBar.background": "#110e1a",
 		"statusBar.noFolderBackground": "#4b208b",
@@ -156,7 +156,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#6ec742"
+				"foreground": "#a5d851"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#3e87dc"
+				"foreground": "#ae51d8"
 			}
 		},
 		{

@@ -50,6 +50,11 @@
 				"label": "Viow Arabian",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-arabian-theme.json"
+			},
+			{
+				"label": "Viow Arabian - Mix",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Viow-arabian-theme.mix.json"
 			}
 		]
 	},

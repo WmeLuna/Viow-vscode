@@ -2,7 +2,7 @@
 	"name": "viow",
 	"displayName": "Viow Color Themes",
 	"description": "The Viow Color Theme",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"publisher": "Youssef",
 	"icon": "resources/icon.png",
 	"engines": {
@@ -50,11 +50,6 @@
 				"label": "Viow Arabian",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Viow-arabian-theme.json"
-			},
-			{
-				"label": "Viow Arabian - Mix",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Viow-arabian-theme.mix.json"
 			}
 		]
 	},

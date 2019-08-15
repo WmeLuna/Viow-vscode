@@ -20,13 +20,20 @@ as its name indicates, it's a contact from space, from red planet mars, a mix fo
     <img src="resources/mars.png" >
 </p>
 
-### Viow material
+## Viow Neon
+a theme that combines blue and grey, with a beautiful harmony, gives a sense of stability in the coding
 <p align="center">
-    <img src="https://gitlab.com/youssefhad/Viow-vscode/raw/master/resources/screen_material.png" >
+    <img src="resources/neon.png" >
 </p>
 
-### Viow light
-
+## Viow Flat
+a simple theme with flat design in all its components
 <p align="center">
-    <img src="https://gitlab.com/youssefhad/Viow-vscode/raw/master/resources/screen_light.png" >
+    <img src="resources/flat.png" >
+</p>
+
+## Viow Light
+The light theme of the viow themes collection with white color and soft text colors
+<p align="center">
+    <img src="resources/light.png" >
 </p>

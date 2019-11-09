@@ -149,7 +149,8 @@
 			"name": "Keywords",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#e45100"
+				"foreground": "#e45100",
+				"fontStyle": "italic"
 			}
 		},
 		{

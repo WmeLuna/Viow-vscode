@@ -1,9 +1,9 @@
 {
 	"name": "viow-edit",
 	"displayName": "Viow Color Themes",
-	"description": "The Viow Color Theme - Wme edit",
+	"description": "The Viow Color Theme - WmeLuna edit :)",
 	"version": "0.3.3",
-	"publisher": "Youssef",
+	"publisher": "WmeLuna-Youssef",
 	"icon": "resources/icon.png",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://gitlab.com/youssefhad/Viow-vscode"
+		"url": "https://github.com/WmeLuna/Viow-vscode"
 	},
 	"categories": [
 		"Themes"
